@@ -3,5 +3,5 @@ In this repository we optimize the random forest (RF) hyper-parameters for the d
 
 
 
-![picture](https://github.com/pfunzowalter/Hyper-parameter-optimization-for-XGB-Boost/blob/main/sample_data.png)
-![picture](https://github.com/pfunzowalter/Hyper-parameter-optimization-for-XGB-Boost/blob/main/RF_regression.png)
+![picture](https://github.com/pfunzowalter/Hyper-parameter_optimization_for_Random_Forest/blob/main/sample_data.png)
+![picture](https://github.com/pfunzowalter/Hyper-parameter_optimization_for_Random_Forest/blob/main/RF_regression.png)
